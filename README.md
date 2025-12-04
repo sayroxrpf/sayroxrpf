@@ -1,6 +1,6 @@
 # 👋 Hallo, ich bin sayrox
 
-![Header Image](https://via.placeholder.com/1200x200.png?text=Willkommen+auf+meinem+GitHub)
+![Header Image](blob:https://imgur.com/344eb44b-b65a-433d-91a5-ce6658868abb)
 
 
 - 🌍 Standort: Deutschland  
