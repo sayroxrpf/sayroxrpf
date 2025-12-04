@@ -1,7 +1,5 @@
 # 👋 Hallo, ich bin sayrox
 
-![Header Image](https://i.imgur.com/q2VO8YP.png)
-
 
 - 🌍 Standort: Deutschland  
 - 💻 Sprachen: Python, JavaScript, HTML, CSS  
