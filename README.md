@@ -25,8 +25,9 @@
 
 - 💬 Discord: sayrox.rpf
 
-### Tech Stack
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### Projekte
+
+[![Projekt 1](https://img.shields.io/badge/Projekt1-Python-blue)](https://github.com/username/projekt1)
+[![Projekt 2](https://img.shields.io/badge/Projekt2-JS-yellow)](https://github.com/username/projekt2)
+[![Projekt 3](https://img.shields.io/badge/Projekt3-HTML-red)](https://github.com/username/projekt3)
+[![Projekt 4](https://img.shields.io/badge/Projekt4-CSS-purple)](https://github.com/username/projekt4)
