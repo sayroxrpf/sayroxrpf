@@ -1,6 +1,6 @@
 # 👋 Hallo, ich bin sayrox
 
-![Header Image](blob:https://imgur.com/344eb44b-b65a-433d-91a5-ce6658868abb)
+![Header Image](https://i.imgur.com/q2VO8YP.png)
 
 
 - 🌍 Standort: Deutschland  
