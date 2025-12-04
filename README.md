@@ -4,9 +4,8 @@
 
 
 - 🌍 Standort: Deutschland  
-- 💻 Haupt-Technologien: Python, Flask, JavaScript, HTML, CSS  
-- ⚡ Interessen: Web-Apps, Dashboards, Team-Tools, APIs  
-- 📝 Aktuell: Arbeiten an einem Team-Dashboard für Serververwaltung  
+- 💻 Sprachen: Python, JavaScript, HTML, CSS  
+- ⚡ Interessen: Web-Apps, Apps, APIs  
 
 
 ## 🖥️ Betriebssysteme
@@ -15,17 +14,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
----
-
-## 📂 Projekte
-
-### Team Dashboard
-![Dashboard Screenshot](https://via.placeholder.com/600x300.png?text=Team+Dashboard)
-- Web-Dashboard für Teamplanung & Servermanagement
-- Features: Ticketverwaltung, Serverstatus, Team-Mitglieder Tracking
-- Tech Stack: Python, Flask, JavaScript, CSS
-
----
 
 ## 📫 Kontakt
 
