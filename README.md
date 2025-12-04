@@ -25,4 +25,4 @@
 
 - 💬 Discord: sayrox.rpf
 
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Danke+für+deinen+Besuch!)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayroxrpf&show_icons=true&theme=dark)
